@@ -307,6 +307,11 @@ main > section{
         margin-top: 20px;
         margin-left: 20px;
     }
+
+    .footer{
+        margin-left: 0px;
+        margin-right: 0px;
+    }
     
     
 }
